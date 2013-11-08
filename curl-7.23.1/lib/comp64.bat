@@ -1,0 +1,1 @@
+nmake.exe /f Makefile64.vc12 CFG=release-dll-ssl-dll-zlib-dll WITH_SSL=dll WITH_ZLIB=dll WITH_DEVEL=../../deps/amd64
